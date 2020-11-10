@@ -1,4 +1,4 @@
 package com.kodilla;
 
-public class test_2 {
+public class Test_3 {
 }
