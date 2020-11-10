@@ -5,6 +5,12 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
 
+class Test {
+
+
+
+
+}
 public class Calculator {
 
     public double subtractAFromB(double a, double b) {
