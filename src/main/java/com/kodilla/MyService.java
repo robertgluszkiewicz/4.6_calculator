@@ -8,4 +8,11 @@ public class MyService {
          */
     }
 
+    int doSthElse(){
+        /**
+         * todo...
+         */
+        return -1;
+    }
+
 }
